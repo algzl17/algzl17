@@ -4,5 +4,5 @@
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub:
-![Asmit's GitHub](https://activity-graph.herokuapp.com/graph?username=algzl17&hide_border=true&theme=redical) | 
+![Asmit's GitHub](https://activity-graph.herokuapp.com/graph?username=algzl17&hide_border=true&theme=redical)
 ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=algzl17&theme=radical&layout=compact)
